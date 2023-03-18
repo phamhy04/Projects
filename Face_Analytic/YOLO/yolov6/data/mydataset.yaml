@@ -1,0 +1,6 @@
+train: ../datasets/data/images/train
+val: ../datasets/data/images/val
+is_coco: False
+nc: 1
+na: 40
+names: ['face']
